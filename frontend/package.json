@@ -2,12 +2,11 @@
   "name": "frontend",
   "version": "1.0.0",
   "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
   "description": "A todo list frontend built with ionic and angular",
+  "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "serve": "ionic serve",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",

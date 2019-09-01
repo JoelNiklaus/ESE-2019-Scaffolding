@@ -5,13 +5,11 @@
 1. `cd` into this frontend folder with your terminal or command prompt
 1. Run `npm install` which will install all the required dependencies
 1. Install Ionic globally with `npm install -g ionic`
-1. Install the Angular CLI globally with `npm install -g @angular/cli`
-1. When successful, run `ionic serve`. This will open the application in your default web browser on `http://localhost:8100/`.
+1. When successful, run `ionic serve`. This will open the application in your default web browser.
 1. Alternatively, you can run just `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. This project uses [Angular Material](https://material.angular.io/) for styling. It is enabled for you by by us by running `ng add @angular/material`. 
 
-This project uses [Ionic UI Components](https://ionicframework.com/docs/components) for styling.
-
-This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2. Refer to their website for commands to generate components, services, pipes easily.
+This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8. Refer their website for commands to generate components, services, pipes easily.
 
 
 ## Further development 
@@ -20,8 +18,8 @@ This project is generated with [Angular CLI](https://github.com/angular/angular-
 - You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module` to generate other artifacts.
 
 
-## A quick introduction to modules, components and services in Angular
-[Architecture](https://angular.io/guide/architecture)
+## A quick introduction to components, services, templates in Angular
+[Link a ppt]()
 
 ## Build
 
