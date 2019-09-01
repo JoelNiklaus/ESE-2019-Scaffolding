@@ -6,6 +6,7 @@ import {TodoListController, TodoItemController} from './controllers';
 import {Sequelize} from 'sequelize-typescript';
 import {TodoList} from './models/todolist.model';
 import {TodoItem} from './models/todoitem.model';
+import {WelcomeController} from './controllers/welcome.controller';
 
 const sequelize =  new Sequelize({
   database: 'development',
@@ -35,6 +36,7 @@ app.use(function (req, res, next) {
 
 app.use('/todolist', TodoListController);
 app.use('/todoitem', TodoItemController);
+app.use('/welcome', WelcomeController);
 
 
 sequelize.sync().then(() => {

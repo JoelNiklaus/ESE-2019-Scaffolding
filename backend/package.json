@@ -1,6 +1,8 @@
 {
-  "name": "express-scaffolding",
+  "name": "backend",
   "version": "1.0.0",
+  "author": "Express",
+  "homepage": "https://expressjs.com/",
   "description": "A todo list backend with express and node",
   "main": "build/server.js",
   "scripts": {
