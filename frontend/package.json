@@ -1,7 +1,8 @@
 {
   "name": "frontend",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Ionic Framework",
+  "description": "A todo list frontend built with ionic and angular",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
@@ -53,6 +54,5 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  },
-  "description": "An Ionic project"
+  }
 }
