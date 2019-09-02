@@ -21,6 +21,7 @@ describe('TodoListComponent', () => {
   beforeEach(() => {
     fixture = TestBed.createComponent(TodoListComponent);
     component = fixture.componentInstance;
+    component.todoList = name;
     fixture.detectChanges();
   });
 
