@@ -1,6 +1,6 @@
 # ESE 2019 Scaffolding
 Welcome to the 2019 ESE course. You can use this scaffolding as a starting point for your group projects. It contains the following components:
-- [frontend](https://github.com/JoelNiklaus/ESE-2019-Scaffolding/tree/master/frontend): an Angular application
+- [frontend](https://github.com/JoelNiklaus/ESE-2019-Scaffolding/tree/master/frontend): an Ionic application
 - [backend](https://github.com/JoelNiklaus/ESE-2019-Scaffolding/tree/master/backend): a Node.js application written in TypeScript, using the express.js web framework 
 
 ## Prerequisites
