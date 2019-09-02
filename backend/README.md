@@ -9,6 +9,7 @@
 1. Test your installation by opening the following endpoints (i.e. "pages") in your browser:
     - [http://localhost:3000/welcome](http://localhost:3000/welcome)
     - [http://localhost:3000/welcome/BurtMacklin](http://localhost:3000/welcome/BurtMacklin) (or substitute any other name at the end)
+    - Additionally the app contains an example for todolist and todoitem, CRUD (Create, Read, Update, Delete) operations can be performed on these two models. You can use frontend app to make these requests.
 
 ## Explanations
 The inline comments in the .ts files of this scaffolding should help you understand most of what's going on. Here are a few additional explanations:
