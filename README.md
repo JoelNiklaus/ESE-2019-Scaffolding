@@ -18,5 +18,6 @@ Welcome to the 2019 ESE course. You can use this scaffolding as a starting point
 ## Understanding project structure
 - The main project folder contains two subfolders: frontend and backend. These two are projects on their own which you will run independently. 
 - The backend folder contains an express project that serves as a REST API, exposes endpoints to accept HTTP requests. For received HTTP requests, it in turn returns JSON data.
-- The frontend folder contains an angular project, which makes HTTP requests to the backend and processes the JSON data received i.e. make changes if required and display it on the UI.
+- The frontend folder contains an Ionic project, which makes HTTP requests to the backend and processes the JSON data received i.e. make changes if required and display it on the UI.
+- We have included an example that demonstrates how to create and delete todo list and corresponding todo items, it can be a good starting point to play around with models of your choice.
 - Projects are separated in this way because in the future one can easily replace either of them if the team decides to use another technology e.g. React JS for frontend or Django REST framework for backend.
