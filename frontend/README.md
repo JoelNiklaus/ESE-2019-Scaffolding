@@ -9,21 +9,18 @@
 
 This project uses [Ionic UI Components](https://ionicframework.com/docs/components) for styling.
 
-This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2. Refer to their website for commands to generate components, services, pipes easily.
-
 
 ## Further development 
 
-- Run `ng generate component component-name` to generate a new component. 
-- You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module` to generate other artifacts.
-
+- Run `ionic generate component component-name` to generate a new component. 
+- Other commands can be found [here](https://ionicframework.com/docs/cli/commands/generate)
 
 ## A quick introduction to modules, components and services in Angular
 [Architecture](https://angular.io/guide/architecture)
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build. This `dist` folder is used to put on production server.
+Run `ionic build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build. This `dist` folder is used to put on production server. More information [here](https://ionicframework.com/docs/cli/commands/build).
 
 ## Running unit tests
 
